@@ -1,0 +1,2 @@
+# Innovative-Care-Incubator-Solutions-for-Premature-Infants
+IoT-based incubator solution for premature infants, using Arduino, ESP8266, Firebase, and React Native. Monitors temperature, humidity, and oxygen levels, sending alerts and enabling remote access to enhance neonatal care and reduce infant mortality rates, especially in resource-constrained settings, promoting innovative healthcare solutions.
